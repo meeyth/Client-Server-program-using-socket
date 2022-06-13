@@ -1,4 +1,4 @@
-# A Server Client program using socket module in python
+# A Client Server program using socket module in python
 <!-- 
 ![The flow chart of server-client.](https://files.realpython.com/media/sockets-tcp-flow.1da426797e37.jpg) -->
 ## Wondering what socket is?
